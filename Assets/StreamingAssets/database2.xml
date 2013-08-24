@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<players xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <dadesUsuari>5</dadesUsuari>
+
+  <estadistiques>1</estadistiques>
+
+  <barallaUsuari>
+
+    <formacio>6-5-2</formacio>
+
+    <barallaActual>
+
+      <cartaUsuari>
+
+        <nom>Atac</nom>
+
+        <ID>1</ID>
+
+        <tipus>Bonificacio</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>0</atacLlargaDistancia>
+
+        <atacCurtaDistancia>0</atacCurtaDistancia>
+
+        <defensa>0</defensa>
+
+        <moviment>0</moviment>
+
+        <distanciaAtac>0</distanciaAtac>
+
+        <bonificacioAtacCurt>2</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>2</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Atac</nom>
+
+        <ID>2</ID>
+
+        <tipus>Bonificacio</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>0</atacLlargaDistancia>
+
+        <atacCurtaDistancia>0</atacCurtaDistancia>
+
+        <defensa>0</defensa>
+
+        <moviment>0</moviment>
+
+        <distanciaAtac>0</distanciaAtac>
+
+        <bonificacioAtacCurt>2</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>2</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>3</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>4</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>5</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Atac</nom>
+
+        <ID>6</ID>
+
+        <tipus>Bonificacio</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>0</atacLlargaDistancia>
+
+        <atacCurtaDistancia>0</atacCurtaDistancia>
+
+        <defensa>0</defensa>
+
+        <moviment>0</moviment>
+
+        <distanciaAtac>0</distanciaAtac>
+
+        <bonificacioAtacCurt>2</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>2</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Atac</nom>
+
+        <ID>7</ID>
+
+        <tipus>Bonificacio</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>0</atacLlargaDistancia>
+
+        <atacCurtaDistancia>0</atacCurtaDistancia>
+
+        <defensa>0</defensa>
+
+        <moviment>0</moviment>
+
+        <distanciaAtac>0</distanciaAtac>
+
+        <bonificacioAtacCurt>2</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>2</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>8</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>9</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+	  <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+	  
+	  <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+	  
+	  <cartaUsuari>
+
+        <nom>Bazooka</nom>
+
+        <ID>11</ID>
+
+        <tipus>Personatge</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>2</atacLlargaDistancia>
+
+        <atacCurtaDistancia>2</atacCurtaDistancia>
+
+        <defensa>2</defensa>
+
+        <moviment>2</moviment>
+
+        <distanciaAtac>3</distanciaAtac>
+
+        <bonificacioAtacCurt>0</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>0</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+	  
+	   <cartaUsuari>
+
+        <nom>Atac</nom>
+
+        <ID>1</ID>
+
+        <tipus>Bonificacio</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>0</atacLlargaDistancia>
+
+        <atacCurtaDistancia>0</atacCurtaDistancia>
+
+        <defensa>0</defensa>
+
+        <moviment>0</moviment>
+
+        <distanciaAtac>0</distanciaAtac>
+
+        <bonificacioAtacCurt>2</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>2</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+
+      <cartaUsuari>
+
+        <nom>Atac</nom>
+
+        <ID>2</ID>
+
+        <tipus>Bonificacio</tipus>
+
+        <nivell>Bronze</nivell>
+
+        <atacLlargaDistancia>0</atacLlargaDistancia>
+
+        <atacCurtaDistancia>0</atacCurtaDistancia>
+
+        <defensa>0</defensa>
+
+        <moviment>0</moviment>
+
+        <distanciaAtac>0</distanciaAtac>
+
+        <bonificacioAtacCurt>2</bonificacioAtacCurt>
+
+        <bonificacioAtacLlarg>2</bonificacioAtacLlarg>
+
+        <bonificacioDefensa>0</bonificacioDefensa>
+
+      </cartaUsuari>
+	  
+    </barallaActual>
+
+    <cartes />
+
+  </barallaUsuari>
+
+</players>
