@@ -33,7 +33,7 @@ public class MenuQuick : MonoBehaviour {
 	void Awake(){
 		int fontSize = (int) Mathf.Ceil(20.0f * (Camera.mainCamera.pixelWidth/568.0f));
 		
-		titolPantalla = Resources.Load("menu_principal") as Texture2D;
+		titolPantalla = Resources.Load("partida_rapida") as Texture2D;
 		botoBack = Resources.Load("boto_enrere") as Texture2D;
 		botoIniciar = Resources.Load("boto_iniciar_partida") as Texture2D;
 		

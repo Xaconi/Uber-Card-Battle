@@ -48,7 +48,7 @@ public class MenuHistoria : MonoBehaviour {
 		int fontSize = (int) Mathf.Ceil(20.0f * (Camera.mainCamera.pixelWidth/568.0f));
 		ConnexioMenus conMenu = (ConnexioMenus) Camera.mainCamera.GetComponent("ConnexioMenus") as ConnexioMenus;
 		
-		titolPantalla = Resources.Load("menu_principal") as Texture2D;
+		titolPantalla = Resources.Load("cartell_mode_historia") as Texture2D;
 		botoBack = Resources.Load("boto_enrere") as Texture2D;
 		
 		descripcioPantalla = new GameObject("TextPerfil");
